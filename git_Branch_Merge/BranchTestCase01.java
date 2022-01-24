@@ -1,8 +1,8 @@
 package git_Branch_Merge;
 
-public class Hello {
+public class BranchTestCase01 {
+    //creating a branch
     public static void main(String[] args) {
         System.out.println("Hello world");
-        //local master is the head
     }
 }
